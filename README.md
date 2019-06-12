@@ -5,7 +5,11 @@ First web project scrapping with Python
 06/12/2019
 
 ### Description
-Extraction of Tecban ATM data for geographic analysis, using python and librarys like Request, time and random.
+Extraction of Tecban ATM data using python and librarys like Request, time and random
+As an example, the geographical coordinate of the central point of each municipality of Brazi
+
+### Code
+The code returns the 96 atm closest to the coordinate in question, organizes the response into lists and creates csv file with dataframe result
 
 ### Files used
 lat.csv
