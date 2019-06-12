@@ -17,7 +17,6 @@ The code returns the 96 atm closest to the coordinate in question, organizes the
 ### Files used
 lat.csv
 long;csv
-Two csv files, one for latitude and one for longitude
 
 ### Source
 https://www.banco24horas.com.br/index/busca-json-terminal
