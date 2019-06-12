@@ -19,4 +19,4 @@ lat.csv
 long;csv
 
 ### Source
-https://www.banco24horas.com.br/index/busca-json-terminal
+https://www.banco24horas.com.br
