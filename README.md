@@ -1,7 +1,7 @@
 ## Geographical analysis - Tecban atm in the city of Curitiba/PR
 
 ### Date created
-06/12/2019
+june 2019
 
 ### Description
 First web project scrapping with Python
