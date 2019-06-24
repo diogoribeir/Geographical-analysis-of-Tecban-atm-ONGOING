@@ -1,24 +1,15 @@
-## Geographical analysis - Tecban atm in the city of Curitiba/PR
-
-### Date created
-june 2019
-
-### Description
+###Web-scraping-Sample
 First web project scrapping with Python
-Extraction of Tecban ATM data using python and librarys like Request, time, random and pandas for geographic analysis
 
+###Date created
+06/12/2019
 
-### Parameters
-Geographical coordinates of the postal codes of the target city
-The coordinate format is accepted as:
-Decimal Degrees (DD): LONG 41.40338 |  LAT 2.17403, each in its respective csv file
+###Description
+Extraction of Tecban ATM data for geographic analysis, using python and librarys like Request, time and random.
 
-### Code Result
-The code returns the 96 atm closest to the coordinate in question, organizes the response into lists and creates dataframe which can be extracted in csv
+###Files used
+lat.csv long;csv Two csv files, one for latitude and one for longitude
 
-### Files used
-lat.csv
-long;csv
 
 ### Source
 https://www.banco24horas.com.br
