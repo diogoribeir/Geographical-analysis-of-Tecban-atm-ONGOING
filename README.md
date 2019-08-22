@@ -5,10 +5,11 @@ First web project scrapping with Python
 06/12/2019
 
 ### Description
-Extraction of Tecban ATM data for geographic analysis, using python and librarys like Request, time and random.
+Extraction of open site data for ATM database creation for analysis
+
 
 ### Files used
-lat.csv long;csv Two csv files, one for latitude and one for longitude
+lat.csv and long.csv
 
 ### Source
 https://www.banco24horas.com.br
